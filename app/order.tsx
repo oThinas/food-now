@@ -80,8 +80,8 @@ export default function Order() {
             {product?.titulo || 'Carregando...'}
           </Text>
 
-          <Text className={`text-center font-bold ${order.status === 'PENDENTE' ? 'text-yellow-600' : ''}`}>
-            {order.status || 'Carregando...'}
+          <Text className={`text-center font-bold ${order?.status === 'PENDENTE' ? 'text-yellow-600' : ''}`}>
+            {order?.status || 'Carregando...'}
           </Text>
         </View>
       </View>
