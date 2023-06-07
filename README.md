@@ -1,6 +1,6 @@
 # food-now
 
-Olá, professor. A API se encontra (aqui)[https://github.com/Leoozera/global-solution-spring].
+Olá, professor. A API se encontra [aqui](https://github.com/Leoozera/global-solution-spring).
 
 ## Instruções de uso
 
